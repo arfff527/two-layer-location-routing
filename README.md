@@ -1,8 +1,8 @@
 # Project Overview
 
 ## I. Directory Structure
-– data/
-├── case_data/ # Stores Case Study test files
+– data/<br>
+├── case_data/ # Stores Case Study test files<br>
 │ ├── CVRP_case_{node_num}.pkl # Input data file
 │ └── CVRPTW_{node_num}_milp.pkl # First-layer solution results
 ├── case_data_generation/
