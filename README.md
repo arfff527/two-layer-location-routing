@@ -26,7 +26,7 @@
 
 ---
 
-## II. Testing Instructions
+## II. Quick Testing Instructions
 
 ### 1. Case Study Testing
 - **Run Command**: Execute the main file `location_routing_main.py` with parameter:
